@@ -26,3 +26,21 @@ Things you may want to cover:
 
 
 [The Turbo Rails Tutorial](https://www.hotrails.dev/)
+
+
+# Check if sass and esbuild are installed
+```bash
+sass --version
+esbuild --version
+```
+
+# Install sass and esbuild if necessary
+```bash
+npm install -g sass esbuild
+```
+
+# Ensure Correct Path
+```bash
+echo $PATH
+```
+
